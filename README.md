@@ -68,7 +68,7 @@ pip install numpy pandas matplotlib scikit-learn
 
 ## 🔗 Open in Colab
 
-[Click Here to Open Notebook](YOUR_COLAB_LINK)
+[Click Here to Open Notebook]((https://colab.research.google.com/drive/1HP_GO7fJnVcAXyRwzqf2qeEjaeztVpaR#scrollTo=9qSJ7abxZrOy))
 
 ---
 
